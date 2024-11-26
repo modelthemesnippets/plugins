@@ -1,12 +1,12 @@
 [
   {
-    "modeltheme-framework-coinflip": "3.3",
+    "modeltheme-framework-coinflip": "3.7",
     "modeltheme-framework-cryptic": "3.3",
     "modeltheme-framework-enefti": "2.2.1",
     "modeltheme-framework-hostcluster": "2.2",
     "modeltheme-framework-ibid": "4.0",
     "modeltheme-framework-ichthys": "1.9.1",
-    "modeltheme-framework-pilon": "1.5",
+    "modeltheme-framework-pilon": "1.7",
     "modeltheme-framework-quintuswp": "2.0",
     "modeltheme-framework-rentacarwp": "1.8.1",
     "modeltheme-framework-zidex": "2.2",
@@ -74,25 +74,32 @@
     "modeltheme-framework-urbanpointwp" : "1.6.1",
     "modeltheme-framework-eistruttore" : "3.0",
     "modeltheme-framework-meeek" : "1.1.1",
+    
+
+
     "modeltheme-framework-versatilewp": "1.2",
     "modeltheme-addons-for-wpbakery": "1.5.1",
+
     "modeltheme-listings-manager-cryptic": "3.2",
     "modeltheme-listings-manager-coinflip": "3.1",
     "modeltheme-listings-manager-oklahoma": "2.1",
     "modeltheme-listings-manager-meraki": "1.2.1",
     "modeltheme-listings-manager-foodhub": "1.7",
+
     "modeltheme-knowledge-wikb": "1.1",
     "modeltheme-knowledge-tikidocs": "2.2",
-    "coinflip-casino-affiliates": "1.6",
+
+
+    "coinflip-casino-affiliates": "1.8.2",
     "modeltheme-compare-coinflip": "1.3",
-    "js_composer": "7.9",
-    "revslider": "6.7.20",
+    "js_composer": "8.0",
+    "revslider": "6.7.21",
     "woocommerce-simple-auctions": "3.0.3",
     "parallax-backgrounds-for-vc": "4.5",
     "virtual_coin_widgets_vc": "2.2.2",
     "cryptocurrency-prices": "50.1",
     "envato-market": "2.0.7",
-    "essential-grid": "3.1.2.2",
+    "essential-grid": "3.1.5",
     "mega_main_menu": "2.2.0",
     "simple-support-system": "1.0.0",
     "masterslider": "3.5.9",
